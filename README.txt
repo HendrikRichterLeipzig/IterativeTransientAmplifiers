@@ -2,7 +2,7 @@ These files provide MATLAB code and data in connection with the article
 
 Richter, H. Spectral dynamics of guided edge removals and identifying transient amplifiers for death–Birth updating. J. Math. Biol. 87, 3 (2023). https://doi.org/10.1007/s00285-023-01937-1
 
-The mat-files Trans_XX_Y.mat are the adjacency matrices of the amplifiers constructors of Y-regular graphs with size XX.
+The mat-files all_XX_YY.mat are the adjacency matrices of the YY-regular graphs with size XX used as the input to the algorithm.
 
 
 
