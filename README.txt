@@ -6,7 +6,7 @@ The mat-files all_XX_YY.mat are the adjacency matrices of the YY-regular graphs 
 
 
 
-The m-file find_trans_amp1 finds the potential transient amplifiers by the perturbation method 
+The m-file trans_amp_iter_00 finds the potential transient amplifiers by the iterated perturbation method 
 
 It uses the function findRemeetingTimes.m 
 
